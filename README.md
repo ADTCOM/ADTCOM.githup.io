@@ -16,7 +16,7 @@
   <body>
     <footer>
       <p>SIM: DTAC</p>
-      <p><a href="https://github.com/ADTCOM/ADTCOM.githup.io/raw/main/DTAC.ovpn.zip">ไฟล์ DTAC.ovpn ดาวน์โหลด</a>.</p>
+      <p><a href="https://github.com/ADTCOM/file-config/raw/main/DTAC%20ovpn.zip">ไฟล์ DTAC.ovpn ดาวน์โหลด</a>.</p>
     </footer>
   </body>
 
