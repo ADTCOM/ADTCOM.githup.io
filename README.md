@@ -1,7 +1,14 @@
 # ดาวน์โหลดไฟล์.ovpn
 
-AIS
+<!DOCTYPE html>
+<html>
+<body>
 
-DTAC
+<button type="https://github.com/ADTCOM/ADTCOM.githup.io/raw/main/AIS.ovpn.zip" onclick="alert('ดาวโหลด')">AIS</button>
 
-TRUE
+<button type="https://github.com/ADTCOM/ADTCOM.githup.io/raw/main/DTAC%20ovpn.zip" onclick="alert('ดาวโหลด')">DTAC</button>
+
+<button type="https://github.com/ADTCOM/ADTCOM.githup.io/raw/main/TRUE.ovpn.zip" onclick="alert('ดาวโหลด')">TRUE</button>
+ 
+</body>
+</html>
